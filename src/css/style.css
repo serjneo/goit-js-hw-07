@@ -1,0 +1,12 @@
+img {
+  display: flex;
+  align-items: center;
+  max-width: 480px;
+}
+.item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  list-style: none;
+}
